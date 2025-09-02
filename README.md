@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devikapolavarapu
-- 👀 I’m interested in exploring AI, Cybersecurity
+- 👀 I’m interested in exploring AI, Cybersecurity and Python Full Stack
 - 🌱 I’m currently learning Full Stack and AI
 - 💞️ I’m looking to collaborate on real-world projects
 - 📫 How to reach me .. 📧: puppy567567@gmail.com
