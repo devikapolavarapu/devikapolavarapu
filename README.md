@@ -49,7 +49,7 @@ AI-powered intelligent surveillance system built using computer vision and Pytho
 Geospatial data analysis project identifying high-risk regions using remote sensing techniques.
 
 ### 🛒 [Freelance Services & Skill Matching Platform](https://github.com/devikapolavarapu/Web-Platform-for-Freelance-Services-and-Skill-Matching_September_2025)
-Full-stack web application connecting freelancers with clients.
+Web-based freelance marketplace platform with skill-based matching and modular full-stack architecture.
 
 ### 📊 [Customer Churn Analysis & Prediction](https://github.com/devikapolavarapu/Customer-Churn-analysis-predication-using-python)
 Machine learning classification model to predict customer churn and identify key business risk factors.
