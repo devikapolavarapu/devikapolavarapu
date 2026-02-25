@@ -43,10 +43,10 @@
 ## 🚀 Featured Projects
 
 ### 🔍 [WatchGuard AI Surveillance](https://github.com/devikapolavarapu/watchguard-ai-surveillance)
-AI-powered intelligent surveillance system built using computer vision and Python.
+Decision-aware AI surveillance system with YOLOv8 weapon detection, contextual risk scoring, temporal validation, evidence capture, and automated SMS alerting.
 
 ### 🌾 [Vector-Prone Area Detection (Remote Sensing)](https://github.com/devikapolavarapu/Identifying-Vulnerable-Vector-Prone-Areas-through-Remote-Sensing-Krishna-Dt-Andhra-Pradesh-India)
-Geospatial data analysis project identifying high-risk regions using remote sensing techniques.
+Remote Sensing and GIS-based spatial risk modeling framework to identify mosquito vector-prone zones using Landsat-8 environmental indices in Krishna District, India.
 
 ### 🛒 [Freelance Services & Skill Matching Platform](https://github.com/devikapolavarapu/Web-Platform-for-Freelance-Services-and-Skill-Matching_September_2025)
 Web-based freelance marketplace platform with skill-based matching and modular full-stack architecture.
