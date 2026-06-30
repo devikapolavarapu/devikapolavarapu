@@ -21,7 +21,7 @@
 📫 **Let’s connect:**  
 🔗 LinkedIn: https://linkedin.com/in/devika-polavarapu  
 📧 Email: puppy567567@gmail.com  
-
+👧🏻 Portfolio : https://devika-polavarapu.is-a.dev
 ---
 
 ## 🛠 Tech Stack
